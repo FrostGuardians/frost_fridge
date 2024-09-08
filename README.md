@@ -1,3 +1,8 @@
+
+# FrostGuardians
+
+![FrostGuardians Logo](https://avatars.githubusercontent.com/u/180691607?s=96&v=4)
+
 # Smart Fridge Module
 
 This repository contains Raspberry Pi scripts for our smart fridge module, aimed at reducing food waste and contributing to the reduction of carbon emissions.
